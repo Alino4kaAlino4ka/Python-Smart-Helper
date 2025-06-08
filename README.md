@@ -1,4 +1,4 @@
-# 🐍   Python Kids Mentor - Всё в одном Colab!
+# 🐍   Python Kids smart Helper - Всё в одном Colab!
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your_username/python-kids-mentor/blob/main/Python_Kids_Mentor.ipynb)
 ![GitHub last commit](https://img.shields.io/github/last-commit/your_username/python-kids-mentor)
