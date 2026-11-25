@@ -10,7 +10,7 @@
 - **Готов к запуску** в 1 клик через Colab
 - **Авто-сохранение** индексов в Google Drive
 - **Тестовые примеры** прямо в ноутбуке
-
+ 
 ## 🎯 Быстрый старт
 1. Откройте [ноутбук в Colab]([https://colab.research.google.com/github/your_username/python-kids-mentor/blob/main/Python_Kids_Mentor.ipynb](https://colab.research.google.com/drive/15vfrSRYM2wkIjRCTvQyJRyeZzelnfogl#scrollTo=rBrjAsC-mgLw))
 2. Выполните шаги:
