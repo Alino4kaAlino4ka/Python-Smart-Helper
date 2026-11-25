@@ -20,7 +20,7 @@
 
 # @title 🧠 Шаг 2: Запуск RAG
 from core import init_mentor
-mentor = init_mentor()
+mentor = init_mentor() 
 
 # @title 🤖 Шаг 3: Тест системы
 print(mentor.ask("Что такое функция?"))
